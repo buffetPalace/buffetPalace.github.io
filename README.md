@@ -1,6 +1,6 @@
 ## Welcome to TA's Dorky Homepage
 
-Hello world!!!  I am dorky TA.  Wanna see how I look like?  [Click here](C:\Users\BuffetPalace\Downloads\pig tshirt.jpg)
+Hello world!!!  I am dorky TA.  Wanna see how I look like?  [Click here](https://cdn11.bigcommerce.com/s-86394/images/stencil/1280x1280/products/7580/109714/10_3244_web__83056.1525191498.jpg?c=2&imbypass=on)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
