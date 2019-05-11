@@ -1,8 +1,4 @@
-theme: jekyll-theme-slate
-title: Welcome to BuffetPalace's homepage!
-description: Feel free to bookmark this to keep an eye on my project updates
-
-## Welcome to GitHub Pages
+## Welcome to TA's Dorky Homepage
 
 You can use the [editor on GitHub](https://github.com/buffetPalace/buffetPalace.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
