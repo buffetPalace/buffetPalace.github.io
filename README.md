@@ -1,6 +1,6 @@
 ## Welcome to TA's Dorky Homepage
 
-You can use the [editor on GitHub](https://github.com/buffetPalace/buffetPalace.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Hello world!!!  I am dorky TA.  Wanna see how I look like?  [Click here](C:\Users\BuffetPalace\Downloads\pig tshirt.jpg)
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
