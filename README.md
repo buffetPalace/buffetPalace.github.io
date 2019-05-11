@@ -2,36 +2,22 @@
 
 Hello world!!!  I am dorky TA.  Wanna see how I look like?  [Click here](https://cdn11.bigcommerce.com/s-86394/images/stencil/1280x1280/products/7580/109714/10_3244_web__83056.1525191498.jpg?c=2&imbypass=on)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also have a handsome boyfriend.  Wanna see him too?  [Click here](https://www.sideshow.com/storage/product-images/300537/superman_dc-comics_gallery_5c4d0345042df.jpg)
 
-### Markdown
+### SUPER HOT!!!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+Here's what my super sexi man do and don't do 4 mi:
 
 ```markdown
-Syntax highlighted code block
+### DON'T
+- BS
+- Lie
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+### DO
+1. Everything
+2. Everything till infinity
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/buffetPalace/buffetPalace.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### I'm da happiest gurl in da universe!!!
